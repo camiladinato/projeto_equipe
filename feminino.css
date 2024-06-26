@@ -1,0 +1,28 @@
+img{
+    width: 25%;
+    height: auto;
+    border-radius: 30%;
+}
+h3{
+    text-align: center;
+    color: rgb(146, 84, 14);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: rgb(233, 185, 146);
+}
+h1{
+    color: rgb(104, 58, 6);
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#vestidorosa{
+    text-align: center;
+}
+h2{
+    color: rgb(104, 58, 6);
+    text-align: center; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
