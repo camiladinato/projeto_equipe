@@ -1,0 +1,22 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #7cd380; /* Cor de fundo opcional */
+}
+
+.image-container {
+    display: flex;
+    flex-direction: column; /* Organiza as imagens em coluna */
+    align-items: center; /* Centraliza as imagens horizontalmente */
+}
+
+.image-container img {
+    width: 200px; /* Largura das imagens */
+    height: 200px; /* Altura das imagens */
+    border-radius: 15px; /* Borda arredondada */
+    border: 2px solid black; /* Contorno preto */
+    margin-bottom: 20px; /* Espaçamento inferior entre as imagens */
+}
