@@ -1,24 +1,63 @@
 .geometrica{
+    border: 2px solid;
+    border-radius: 50px;
     width: 500px;
     height: 500px;
 }
 
 .Roupabranca{
+    border: 2px solid;
+    border-radius: 50px;
     width: 500px;
     height: 500px;
 }
 
 .roupaflorida{
+    border: 2px solid;
+    border-radius: 50px;
     width: 400px;
     height: 500px;
 }
 
 .camisa{
+    border: 2px solid;
+    border-radius: 50px;
     height: 25%;
     width: 25%;
 }
 
 .camisapreta{
+    border: 2px solid;
+    border-radius: 50px;
+    height: 25%;
+    width: 25%;
+}
+
+.roupaazul{
+    border: 2px solid;
+    border-radius: 50px;
+    height: 25%;
+     width: 25%;
+}
+
+.roupadourada{
+    border: 2px solid;
+    border-radius: 50px;
+    height: 25%;
+    width: 25%;
+}
+
+.branca{
+    border: 2px solid;
+    border-radius: 50px;
+    height: 30%;
+    width: 30%;
+
+}
+
+.cinza{
+    border: 2px solid;
+    border-radius: 50px;
     height: 25%;
     width: 25%;
 }
