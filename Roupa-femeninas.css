@@ -1,0 +1,66 @@
+.brancafeme{
+    border: 2px solid;
+    border-radius: 50px;
+    width: 25%;
+    height: 25%;
+    box-shadow: 10px  5px 8px  rgba(122, 120, 120, 0.822);
+}
+
+.verdefemi{
+    border: 2px solid;
+    border-radius: 50px;
+    width: 25%;
+    height: 25%;
+    box-shadow: 10px  5px 8px  rgba(122, 120, 120, 0.822);
+}
+
+.tiger{
+    border: 2px solid;
+    border-radius: 50px;
+    width: 25%;
+    height: 25%;
+    box-shadow: 10px  5px 8px  rgba(122, 120, 120, 0.822);
+}
+
+.dalmata{
+    border: 2px solid;
+    border-radius: 50px;
+    width: 25%;
+    height: 25%;
+    box-shadow: 10px  5px 8px  rgba(122, 120, 120, 0.822);
+}
+
+.planta{
+    border: 2px solid;
+    border-radius: 50px;
+    width: 25%;
+    height: 25%;
+    box-shadow: 10px  5px 8px  rgba(122, 120, 120, 0.822);
+}
+
+.beji{
+    border: 2px solid;
+    border-radius: 50px;
+    width: 25%;
+    height: 25%;
+    box-shadow: 10px  5px 8px  rgba(122, 120, 120, 0.822);
+}
+
+.flores{
+    border: 2px solid;
+    border-radius: 50px;
+    width: 25%;
+    height: 25%;
+    box-shadow: 10px  5px 8px  rgba(122, 120, 120, 0.822);
+}
+
+body{
+
+    background-color: rgba(73, 70, 70, 0.123);
+}
+
+.beji:hover{
+
+    box-shadow: 10px  5px 8px  rgba(24, 23, 23, 0.822);
+
+}

@@ -1,0 +1,93 @@
+.geometrica{
+    border: 2px solid;
+    border-radius: 50px;
+    width: 500px;
+    height: 500px;
+   box-shadow: 10px  5px 8px  rgba(122, 120, 120, 0.822);
+ }
+
+
+.Roupabranca{
+    border: 2px solid;
+    border-radius: 50px;
+    width: 500px;
+    height: 500px;
+    box-shadow: 10px  5px 8px  rgba(122, 120, 120, 0.822);
+}
+
+
+.roupaflorida{
+    border: 2px solid;
+    border-radius: 50px;
+    width: 400px;
+    height: 500px;
+    box-shadow: 10px  5px 8px  rgba(122, 120, 120, 0.822);
+}
+
+
+.camisa{
+    border: 2px solid;
+    border-radius: 50px;
+    height: 25%;
+    width: 25%;
+    box-shadow: 10px  5px 8px  rgba(122, 120, 120, 0.822);
+}
+
+
+.camisapreta{
+    border: 2px solid;
+    border-radius: 50px;
+    height: 25%;
+    width: 25%;
+    box-shadow: 10px  5px 8px  rgba(122, 120, 120, 0.822);
+}
+
+
+.roupaazul{
+    border: 2px solid;
+    border-radius: 50px;
+    height: 25%;
+     width: 25%;
+     box-shadow: 10px  5px 8px  rgba(122, 120, 120, 0.822);
+}
+
+
+.roupadourada{
+    border: 2px solid;
+    border-radius: 50px;
+    height: 25%;
+    width: 25%;
+    box-shadow: 10px  5px 8px  rgba(122, 120, 120, 0.822);
+}
+
+
+.branca{
+    border: 2px solid;
+    border-radius: 50px;
+    height: 30%;
+    width: 30%;
+    box-shadow: 10px  5px 8px  rgba(122, 120, 120, 0.822);
+
+}
+
+
+.cinza{
+    border: 2px solid;
+    border-radius: 50px;
+    height: 25%;
+    width: 25%;
+    box-shadow: 10px  5px 8px  rgba(122, 120, 120, 0.822);
+}
+
+
+
+body{
+
+    background-color: rgba(73, 70, 70, 0.123);
+}
+
+.camisa:hover{
+
+    box-shadow: 10px  5px 8px  rgba(24, 23, 23, 0.822);
+    
+}
