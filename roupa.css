@@ -57,6 +57,7 @@ img{
     height: auto;
 }
 
-.bi bi-bookmark{
-    color: rgb(104, 58, 6);
+.card{
+    display: inline-block;
+    
 }
