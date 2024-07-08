@@ -59,5 +59,10 @@ img{
 
 .card{
     display: inline-block;
+    text-align: center;
     
+}
+
+.card-body{
+    text-align: center;
 }
