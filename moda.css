@@ -1,12 +1,12 @@
 body {
-    background: linear-gradient(to bottom, #77db9d, #acf8bd)
+    background: linear-gradient(to bottom, #dae0dc, #dde4df)
 }    
-h1{
+h1 { 
     text-align: center;
     font-size: 5rem; 
 }
 
-img{
+img {
     display:block;
     border:1px solid black;
     border-radius:  2rem ;
@@ -16,11 +16,11 @@ img{
     transition: box-shadow 05s ease-in-out;
 }
 
-img: hover{
+img: hover {
     box-shadow: 2px 10px 18px ;
 }
 
-.imagens{
+.imagens {
     text-align:center ;
     width: 200px;
     height: 200px;
@@ -30,10 +30,33 @@ img: hover{
     margin-bottom: 70px;
 }
 
-#image-section{
+#image-section {
     text-align: center;
 }
 
-div{
+div {
+    text-align: center;
+}
+#Sapato {
+    text-align: center;
+}
+.card {
+    display: flex; /* Transforma o contêiner em um flex container */
+    flex-direction: column; /* Direção de empilhamento das flex-items */
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    text-align: center;
+    margin-bottom: 20px; /* Espaçamento entre os cards */
+    padding: 10px; /* Espaçamento interno dos cards */
+    border: 1px solid #75dd94; /* Adiciona uma borda */
+    border-radius: 8px; /* Borda com borda de 8 pixels */
+}
+.card img {
+    display: block; /* Garante que a imagem seja exibida como bloco */
+    max-width: 100%; /* Para garantir que a imagem não ultrapasse o contêiner */
+    height: auto; /* Para manter a proporção da imagem */
+    margin-bottom: 10px; /* Espaçamento inferior da imagem */
+}
+.card-body {
     text-align: center;
 }
