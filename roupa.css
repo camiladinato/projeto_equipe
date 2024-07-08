@@ -60,3 +60,14 @@ img{
 .card{
     display: inline-block;
 }
+
+
+.btn_teste{
+    color:  rgb(61, 60, 59);
+    border: 1px solid  aliceblue;
+}
+
+
+.btn_teste:hover{
+   background-color: aliceblue;
+}
