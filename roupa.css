@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(228, 225, 222);
+}
+
+#vestidorosa, h1, h2, h3, .inicial, p, div{
+    text-align: center;
+}
+
+
+h3 {
+    
+    color: rgb(78, 77, 76);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+h1, h2{
+    color: rgb(78, 77, 76);    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+p{
+    color: rgb(19, 18, 17);  
+}
+
+
+
+img{
+    width: 25%;
+    height: auto;
+    border-radius: 30%;
+    box-shadow: 20px 10px 20px rgb(61, 60, 59);
+    
+}
+
+#meio{
+    width: auto;
+    height: 406px;
+}
+
+.teste{
+    width: 250px;
+    height: auto;
+    box-shadow: 10px 5px 8px rgb(61, 60, 59);
+    margin-left: 5rem;
+
+}
+.teste:hover{
+    box-shadow: 2px 10px 18px rgb(68, 84, 95);
+}
+
+#menina1{
+    width: 220px;
+    height: auto;
+}
+
+.card{
+    display: inline-block;
+}
+
+
+.btn_teste{
+    color:  rgb(61, 60, 59);
+    border: 1px solid  aliceblue;
+}
+
+
+.btn_teste:hover{
+   background-color: aliceblue;
+}
